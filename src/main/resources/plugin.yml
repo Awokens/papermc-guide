@@ -1,0 +1,7 @@
+name: papermc-guide
+version: '${version}'
+main: com.github.awokens.papermcguide.Papermc_guide
+api-version: '1.20'
+authors: [Awokens]
+description: This is a PaperMC guide and tutorial walkthrough of PaperMC's API w/ scenario code to help you!
+website: github.com/theawokens
